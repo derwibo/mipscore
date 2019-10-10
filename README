@@ -1,0 +1,4 @@
+MipsCore - The Core Component of "Maschinen-Inbetriebnahme und Prüf-System"
+
+The Library consists of some Python-Classes written in C++ for recording and controlling Data during
+initial operation of a machine.
